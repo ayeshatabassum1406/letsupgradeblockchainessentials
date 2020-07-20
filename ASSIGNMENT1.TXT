@@ -1,0 +1,38 @@
+Blockchain Essential
+ASSIGNMENT 1
+Name:Ayesha Tabassum
+
+Q.1  What is your understanding of blockchain?
+ANS:	A blockchain is a database that is shared across a network 
+	of computers.
+	once a record has been added to the chain it is very difficult
+	to change.to ensure all the copies of the database are same,the network makes
+	constant checks.blockchain have been used to underpin cyber-currencies
+	like bitcoin,but many other possible uses are emerging.
+
+
+Q2.  What is the core problem blockchain trying to solve?
+ANS: Blockchain addresses the problem of:
+	1.data loss due to hardware or connectivity issues.
+	2.data corruption due to intermittent hardware or connectivity issues.
+	3.data security and trust by making the ledger public.
+Q3.  what are few features of blockchain?
+ANS:    1.Cannot be corrupted 
+	2.Decentralized
+	3.Enhanced security
+	4.Distributed ledgers
+	5.Immutable
+	6.Tamper proof
+	7.Verifiable
+
+Q4. What all things does a block contain?
+ANS:    1.Block number
+	2.Transaction records
+	3.Previous block signature
+	4.Mining key
+
+Q5.How is the verifiability of Blockchain has attained?
+ANS:    The data is shared among all the members of blockchain group.
+	if all members of the group reports same hash,then the data is not change.
+	if any member reports different hash key then the data is changed in intermediate block.
+	the member can recover original data from other members.
